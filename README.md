@@ -1,1 +1,1 @@
-# PyTorch-Deep-Learning-and-Computer-Vision
+# PyTorch Deep Learning and Computer Vision
